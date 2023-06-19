@@ -1,11 +1,11 @@
 <h1 align="center">Hola! 👋, Soy Daniel</h1>
 <h3 align="center">Un desarrollador apasionado de Neuquén, Argentina</h3>
 
-- 🔭 Actualmente estoy estoy estudiando [Estructuras de datos](https://github.com/limadaniel-ar/estructura-datos-cola)
+- 🔭 Actualmente estoy estoy estudiando [Estructuras de datos de tipo Cola](https://github.com/limadaniel-ar/estructura-datos-cola) y [de tipo Pila](https://github.com/limadaniel-ar/estructura-datos-pila)
 
 - 🌱 Estoy capacitandome en **Java, Python, C#**
 
-- 👯 Mi proyecto favorito [Inmobiliaria](https://github.com/limadaniel-ar/inmobiliaria)
+- 👯 Mi proyecto favorito es el de una [Inmobiliaria](https://github.com/limadaniel-ar/inmobiliaria), en el mismo se generan diferentes objetos que se relacionan entre si para crear contratos de alquiler. Me siento muy orgulloso de este proyecto
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
